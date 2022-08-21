@@ -1,2 +1,2 @@
-# Priv-Esc
-Priv esc files
+## Priv-Esc
+Priv esc techniques
